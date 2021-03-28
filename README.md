@@ -1,3 +1,4 @@
+
 # ml-journey
 
 ### Introduction
@@ -7,6 +8,7 @@ Please feel free to use any code published in this repo bearing in mind that mos
 ### Index
 * [Transfer learning tutorials](https://github.com/lddm/ml-journey/tree/main/transfer_learning)
 * [Stanford CS231n course assignments](https://github.com/lddm/ml-journey/tree/main/cs231n): I found in the first assignments an amazing hands-on experience on the very basics of neural networks and back-propagation. When the assignments moved into training deep neural networks I decided to directly move to real-world applications.
+* [Kaggle Challenge - Understanding the Amazon from Space](https://github.com/lddm/ml-journey/blob/main/Planet_Amazon_challenge.ipynb) I've been really interested in the Kaggle challenge [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space). It overlaps my personal interests and skills,  I am really worried about climate change and its effects on our everyday lives and how it would worsen if we humans don't start to take it seriously and push for behavior changes. On the other hand, I have experience working with remote sensing. Combining the information obtained from satellites with machine learning has a great potential in monitoring deforestation, land usage, and waste management.
 
 
 #### Disclaimer
